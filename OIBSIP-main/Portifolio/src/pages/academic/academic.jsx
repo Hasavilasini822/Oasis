@@ -14,7 +14,7 @@ const Academic = () => {
           </div>
           <div className="data">
           <div className="branch">
-            <h3>Electronics and <br /> Comnmunication</h3>
+            <h3>Computer Science and <br /> Engineering</h3>
           </div>
           <div className="clg">
             <h5>Vishnu Institute of Technology</h5>
@@ -23,7 +23,7 @@ const Academic = () => {
             <h5>2020-Pursuing</h5>
           </div>
           <div className="gpa">
-            <h5>9.35 <span>CGPA</span></h5>
+            <h5>9.51 <span>CGPA</span></h5>
           </div>
         </div>
           </div>
@@ -38,13 +38,13 @@ const Academic = () => {
             <h3>Mathmetice Physics <br /> Chemistry</h3>
           </div>
           <div className="clg">
-            <h5>Vignan junior College</h5>
+            <h5>Aditya junior college</h5>
           </div>
           <div className="year">
             <h5>2018-2020</h5>
           </div>
           <div className="gpa">
-            <h5>9.88 <span>CGPA</span></h5>
+            <h5>10.0 <span>CGPA</span></h5>
           </div>
         </div>
           </div>
@@ -57,7 +57,7 @@ const Academic = () => {
           <div className="data">
             <br />
             <div className="clg">
-              <h5>Sri Chaitanya School</h5>
+              <h5>St.Marys high School</h5>
             </div>
             <div className="year">
               <h5>2017-2018</h5>
